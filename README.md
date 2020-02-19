@@ -1,1 +1,1 @@
-# Automatic position recognition and transport of different package types
+# Automatic position recognition and transport of different package types.
