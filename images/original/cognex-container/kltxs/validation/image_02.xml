@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kltxs</folder>
+	<filename>image_02.jpg</filename>
+	<path>D:\Desktop\BA\cognex-pos-2-klt\kltxs\image_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kltxs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>222</ymin>
+			<xmax>113</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

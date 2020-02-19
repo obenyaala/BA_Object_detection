@@ -1,0 +1,26 @@
+<annotation>
+	<folder>b6</folder>
+	<filename>image_59.jpg</filename>
+	<path>D:\Desktop\BA\cognex-pose-2\b6\image_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>212</ymin>
+			<xmax>182</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>image_84.jpg</filename>
+	<path>D:\Desktop\BA\cognex-pose-2\b3\validation\image_84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>128</ymin>
+			<xmax>120</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>validation_image_207_a.jpg</filename>
+	<path>F:\DL-Oussama_Benyaala\cognex-pose-2\validation\validation_image_207_a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>94</ymin>
+			<xmax>132</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

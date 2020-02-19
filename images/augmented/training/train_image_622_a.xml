@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>train_image_622_a.jpg</filename>
+	<path>F:\DL-Oussama_Benyaala\cognex-pose-2\training\train_image_622_a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>2</ymin>
+			<xmax>181</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>
