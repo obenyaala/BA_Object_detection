@@ -1,1 +1,1 @@
-# Detection of diffrent packages shapes and moving them using a robot
+# Automatic position recognition and transport of different package types
